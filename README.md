@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Owen, a Italian Developer 👋🏼:
-🛜 I am currently working alone as a freelancer<br>👨🏼‍🎓 <br>👨🏼‍💻 working as a Java/Web/LUA/Bukkit developer since 2022 <br>
+🛜 I am currently working alone as a freelancer<br> 👨🏼‍💻 working as a Java/Web/LUA/Bukkit developer since 2022 <br>
 
 
 # 💻 Tech Stack:
