@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Owen, a Italian Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 I am currently working alone as a freelancer<br>👨🏼‍🎓 <br>👨🏼‍💻 working as a Java/Web/LUA/Bukkit developer since 2022 <br>
 
 
 # 💻 Tech Stack:
